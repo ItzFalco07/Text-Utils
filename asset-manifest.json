@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ItzFalco07/Text-Utils/static/css/main.dddeb2f1.css",
-    "main.js": "/ItzFalco07/Text-Utils/static/js/main.56a7eeac.js",
-    "static/js/453.b5b69dd2.chunk.js": "/ItzFalco07/Text-Utils/static/js/453.b5b69dd2.chunk.js",
-    "index.html": "/ItzFalco07/Text-Utils/index.html",
-    "main.dddeb2f1.css.map": "/ItzFalco07/Text-Utils/static/css/main.dddeb2f1.css.map",
-    "main.56a7eeac.js.map": "/ItzFalco07/Text-Utils/static/js/main.56a7eeac.js.map",
-    "453.b5b69dd2.chunk.js.map": "/ItzFalco07/Text-Utils/static/js/453.b5b69dd2.chunk.js.map"
+    "main.css": "/Text-Utils/static/css/main.dddeb2f1.css",
+    "main.js": "/Text-Utils/static/js/main.44d9c6e8.js",
+    "static/js/453.b5b69dd2.chunk.js": "/Text-Utils/static/js/453.b5b69dd2.chunk.js",
+    "index.html": "/Text-Utils/index.html",
+    "main.dddeb2f1.css.map": "/Text-Utils/static/css/main.dddeb2f1.css.map",
+    "main.44d9c6e8.js.map": "/Text-Utils/static/js/main.44d9c6e8.js.map",
+    "453.b5b69dd2.chunk.js.map": "/Text-Utils/static/js/453.b5b69dd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dddeb2f1.css",
-    "static/js/main.56a7eeac.js"
+    "static/js/main.44d9c6e8.js"
   ]
 }
